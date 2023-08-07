@@ -1,7 +1,7 @@
 ### Olá, Meu nome é João Miguel 👋
 
-- 🌱 19 anos
-- 🤔 Desenvolvedor Front-End...
+- 🌱 20 anos
+- 🤔 Desenvolvedor Front-End.
 - 💬 Adoro ensinar e interagir com pessoas!
 
 <div>
@@ -25,8 +25,3 @@
   <a href="https://wa.me/5521975471418" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"/></a>
   <a href="https://discordapp.com/users/426728402863652867" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"/></a>
 </div>
-
-
-**Bem vindo ao meu perfil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
